@@ -17,10 +17,6 @@
       "type": "image/png",
       "purpose": "any maskable"
     },
-    {
-      "src": "/PlayaDorada/assets/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }
+    
   ]
 }
